@@ -8,7 +8,7 @@ Bluescreen Players in your server! Scare them.
 <br />
 
 ## Get the Plugin Here
-- https://github.com/blazethrower320/BTBlueScreen/releases/tag/Release
+- https://github.com/BTPlugins/BTBlueScreen/releases/tag/Release
 
 ## Discord Support: 
 - https://discord.gg/YsaXwBSTSm
